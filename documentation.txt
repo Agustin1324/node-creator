@@ -1,3 +1,6 @@
+This is documentation for the nodes creation.
+
+
 Custom Nodes
 A powerful feature of React Flow is the ability to add custom nodes. Within your custom nodes you can render everything you want. You can define multiple source and target handles and render form inputs or charts for example. In this section we will implement a node with an input field that updates some text in another part of the application.
 
